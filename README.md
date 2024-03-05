@@ -1,2 +1,2 @@
-# Coding-Competion-W24
-ACM Competitive Programming x ACM-G
+# ACM Competitive Programming x ACM-G Coding Competition
+
