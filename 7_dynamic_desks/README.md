@@ -1,4 +1,4 @@
-# Premium Professor
+# Dynamic Desks
 
 View the problem on [HackerRank](https://www.hackerrank.com/contests/competitive-programming-x-acm-g-coding-competition/challenges/dynamic-desks)
 
