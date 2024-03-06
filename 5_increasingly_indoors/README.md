@@ -1,6 +1,6 @@
 # Increasingly Indoors
 
-View the problem on [HackerRank](https://www.hackerrank.com/contests/acm-test-competition-1709345028/challenges/increasingly-indoors)
+View the problem on [HackerRank](https://www.hackerrank.com/contests/competitive-programming-x-acm-g-coding-competition/challenges/increasingly-indoors)
 
 ### Description
 The ACM Club president, Jordan Mosakowski, is very curious about how far “indoors” he can get inside SCU, so he asks you to help him with the task. He defines how indoors a room is by the minimum number of doors you can go through to go from the room to the outdoors or from the outdoors to the room. For example, the furthest inside he can be in SCDI is a factor of 3, since you enter any set of doors from the outside, then enter a certain classroom that has a closet, then enter the closet. However, a door such as a bathroom stall door does not count as being more indoors because you don't enter a new room. Given a building as a list of D doors connecting rooms to each other or connecting a room R[i] to the outside, determine how far indoors you can be in the building and determine the rooms that are the most indoors.
